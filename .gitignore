@@ -1,0 +1,29 @@
+# Local environments
+.venv/
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Tests / experiments
+test/
+base.html
+
+# Runtime/generated data
+data/
+current_session.tmp
+*.wav
+*.mp3
+*.csv
+
+# Runtime logs / temp files
+*.log
+*.tmp
